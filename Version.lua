@@ -1,6 +1,11 @@
 local _, Skada = ...
 Skada.versions = {
 	{
+		id = "1.8.4",
+		title = "Skada 1.8.4",
+		message = "<br/>Updated for 10.0!<br/><br/>Fixed ui errors"
+	},
+	{
 		id = "1.8.0",
 		title = "Skada 1.8.0",
 		message = "<br/>Updated for 9.0!<br/><br/>Pets without a unit will be properly associated with their owner."
